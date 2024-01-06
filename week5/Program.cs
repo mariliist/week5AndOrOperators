@@ -1,3 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// AND + &&
+// true && true --> true
+// true && false --> false
+
+// OR - || (pipes)
+// true || true --> true
+// true || false --> true
+// false || false --> false
+
+
 
